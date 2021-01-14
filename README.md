@@ -1,5 +1,5 @@
 ### Hi there 😁 !
-#### My name is Jason Wilger and I am a student at DigitalCrafts, Atlana
+#### My name is Jason Wilger and I am a student at DigitalCrafts, Atlanta.
 
 - 🌱 I’m currently learning full-stack web development!
 

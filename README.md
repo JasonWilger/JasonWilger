@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 😁 !
 #### My name is Jason Wilger and I am a student at DigitalCrafts, Atlana
 
-- 🔭 I’m currently working on developing my skills at DigitalCrafts, Atlanta!
+- 🔭 I’m currently working on full-stack web development 🌐 !
 
 - 🌱 I’m currently learning JavaScript, Node.js, React, and much more!
 

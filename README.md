@@ -7,5 +7,5 @@
 
 - 📫 How to reach me: jkw500@gmaill.com
 
-- ⚡ Fun fact: I love coffee ☕ , traveling 🗺️ , rock clibing 🧗 !
+- ⚡ Fun fact: I love coffee ☕ , traveling 🗺️ , and rock clibing 🧗 !
 

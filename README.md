@@ -5,9 +5,9 @@
 
 - 🤔 I’m looking for help with refining my skills in JavaScript, Node.js, and React.
 
-- 📫 How to reach me: jkw500@gmaill.com
+- 📫 Shoot me an [email](mailto:jkw500@gmaill.com)!
 
 - ⚡ Fun fact: I love coffee ☕ , traveling 🗺️ , and rock climbing 🧗 !
 
-- 🌐 Check out my portfolio! https://jasonwilger.herokuapp.com/
+- 🌐 Check out my [portfolio](https://jasonwilger.herokuapp.com/)!
 

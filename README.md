@@ -1,9 +1,5 @@
 ### Hi there 😁 !
-#### My name is Jason Wilger and I am a student at DigitalCrafts, Atlanta.
-
-- 🌱 I’m currently learning full-stack web development!
-
-- 🤔 I’m looking for help with refining my skills in JavaScript, Node.js, and React.
+#### My name is Jason Wilger and I'm lookign to develop my skills in IT.
 
 - 📫 Shoot me an [email](mailto:jkw500@gmaill.com)!
 
